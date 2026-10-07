@@ -48,7 +48,7 @@ HireZin streamlines the recruitment process from job posting to offer. Built-in 
 
 ---
 
-### [MealGoGo – www.mealgogo.com]([https://www.mealgogo.com/](https://github.com/datluong2409/mealgogo)) *(Self-hosted)*
+### [MealGoGo – www.mealgogo.com](https://github.com/datluong2409/mealgogo) *(Self-hosted)*
 > A free food ordering system for groups & businesses.
 
 MealGoGo helps groups and teams collect orders without requiring anyone to install apps. Orders are aggregated cleanly, billing is transparent, and the final order can be placed on any food platform like ShopeeFood, Grab, or Beefood — all from one shared link. Now available as a self-hosted solution.
