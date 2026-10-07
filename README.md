@@ -41,7 +41,7 @@ I enjoy working with **freelancers**, **startups**, and **on-site teams**, contr
 
 ## 🌟 Featured Projects
 
-### HireZin – AI-Powered ATS Platform *(New)*
+### [HireZin – AI-Powered ATS Platform](https://www.hirezin.com/) *(New)*
 > A modern Applicant Tracking System with AI-powered candidate screening and filtering.
 
 HireZin streamlines the recruitment process from job posting to offer. Built-in AI analyzes and ranks applicants based on job requirements, reducing manual screening time and surfacing the best candidates faster.
