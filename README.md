@@ -41,10 +41,18 @@ I enjoy working with **freelancers**, **startups**, and **on-site teams**, contr
 
 ## 🌟 Featured Projects
 
-### [HireZin – AI-Powered ATS Platform](https://www.hirezin.com/) *(New)*
+### [HireZin – AI-Powered ATS Platform](https://www.hirezin.com/) *(Live)*
 > A modern Applicant Tracking System with AI-powered candidate screening and filtering.
 
 HireZin streamlines the recruitment process from job posting to offer. Built-in AI analyzes and ranks applicants based on job requirements, reducing manual screening time and surfacing the best candidates faster.
+
+---
+
+### [Transtube – AI-Powered YouTube Assistant](https://www.transtubee.com/en/) *(Live)*
+
+> A browser extension that transforms YouTube videos into actionable insights with AI-powered summaries, transcripts, and interactive chat.
+
+Transtube helps users learn faster from YouTube videos by extracting key insights, generating AI summaries, and enabling interactive conversations with video content. It supports multiple AI providers, including OpenAI, Claude, Gemini, and local AI models, giving users full control over their AI experience.
 
 ---
 
@@ -52,6 +60,20 @@ HireZin streamlines the recruitment process from job posting to offer. Built-in 
 > A free food ordering system for groups & businesses.
 
 MealGoGo helps groups and teams collect orders without requiring anyone to install apps. Orders are aggregated cleanly, billing is transparent, and the final order can be placed on any food platform like ShopeeFood, Grab, or Beefood — all from one shared link. Now available as a self-hosted solution.
+
+---
+
+### [Linux Clipboard – Clipboard History Manager for Linux](https://github.com/datluong2409/linux-clipboard) *(Open Source)*
+> A Windows-style clipboard history manager for Linux, inspired by Win + V.
+
+Linux Clipboard brings a familiar clipboard history experience to Ubuntu and GNOME. Built with **Tauri v2, React, TypeScript, Tailwind CSS, and Rust**, it runs in the background and keeps track of copied text and images. Features include searchable history, pinned snippets, customizable shortcuts, and quick paste support for X11 and Wayland.
+
+---
+
+### [OpenMyDear – One-Click Desktop Productivity Launcher](https://github.com/datluong2409/openmydear) *(Open Source)*
+> One click. Everything opens.
+
+OpenMyDear is a lightweight desktop launcher that helps users organize applications, files, and folders into reusable profiles and launch them with a single click. Built with **Tauri v2, React, TypeScript, and Rust**, it supports parallel and sequential launching, customizable delays, drag-and-drop organization, auto-updates, and a bilingual interface for Windows and macOS.
 
 ---
 
